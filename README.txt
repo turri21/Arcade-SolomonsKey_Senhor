@@ -1,3 +1,7 @@
+-=(SolomonsKey_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Solomon's Key  port to MiSTer by MiSTer-X
